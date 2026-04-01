@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17605067.svg)](https://doi.org/10.5281/zenodo.17605067)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17605067.svg)](https://doi.org/10.5281/zenodo.19363880)
 # Safe AI Restoration of Low-Quality CTA for Brain Aneurysm Detection
 
 A student research project on whether AI can safely restore degraded CT angiography (CTA) to support brain aneurysm detection without introducing harmful image changes.
